@@ -1,4 +1,4 @@
-# provider_counter_app
+# Counter App With Provider
 
 A new Flutter project.
 
